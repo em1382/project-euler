@@ -1,4 +1,4 @@
-# Solves Project-Euler problem 1.
+# Solves Project Euler problem 1.
 def main():
     total = 0
 
